@@ -1,1 +1,1 @@
--m #!/bin/bash\nls -1t | head -10
+-m #!/bin/bash\ls -1t | head -10
